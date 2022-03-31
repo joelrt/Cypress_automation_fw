@@ -34,7 +34,7 @@ E2E testing sketch.com for:
 
 ## Set-Up Environment
 
-- Install NodeJS runtime i your local environment [https://nodejs.org/en/](https://nodejs.org/en/)
+- Install NodeJS runtime in your local environment [https://nodejs.org/en/](https://nodejs.org/en/)
 - Download a copy of this repo
 - Open terminal go to the project path
 - Install all requeriments:
@@ -53,7 +53,7 @@ E2E testing sketch.com for:
 - To execute this test Framework we have two options available:
 
   | Type | Command |
-          | ------ | ------ |
+  | ------ | ------ |
   | headless | `npm run cypress:headless` |
   | graphical | `npm run cypress:graphical` |
 
