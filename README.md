@@ -47,7 +47,7 @@ E2E testing sketch.com for:
 
 ```sh
   > export cypress_user=email@email.com
-  > export cypress_password=JoelControl123!@
+  > export cypress_password=Password123!@#
 ```
 
 - To execute this test Framework we have two options available:
